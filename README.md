@@ -20,5 +20,9 @@ Method B randomly selects points and computes the average of the distances to th
 The values obtained from Method A and Method B are combined, and lower values are considered as dynamic objects, and those points are removed.
 
 ## 3. Experiments & Results
+### Before_remove
+![Screenshot from 2024-03-05 12-59-19](https://github.com/ksky0222/DORES_Dynamic-Object-Removal/assets/109937431/a8637f6c-1869-40a9-aae9-791094e6dd6b)
+
+### After_remove
 
 ![Screenshot from 2024-03-05 12-55-30](https://github.com/ksky0222/DORES_Dynamic-Object-Removal/assets/109937431/2e51c4f7-d62b-4419-afef-0ddda51ed147)
