@@ -7,4 +7,4 @@ These situations involve objects other than map data being acquired by sensor da
 Therefore, removing dynamic objects can enhance the accuracy of SLAM or Localization, and also improve the robot's perception capabilities in extreme conditions.
 
 ## Our Method
-
+![Screenshot from 2024-03-05 12-44-23](https://github.com/ksky0222/DORES_Dynamic-Object-Removal/assets/109937431/fbf50c05-8a92-4098-9691-08d6afd8a524)
