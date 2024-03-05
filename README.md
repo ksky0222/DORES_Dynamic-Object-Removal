@@ -32,3 +32,13 @@ The values obtained from Method A and Method B are combined, and lower values ar
 ![Screenshot from 2024-03-05 12-55-30](https://github.com/ksky0222/DORES_Dynamic-Object-Removal/assets/109937431/2e51c4f7-d62b-4419-afef-0ddda51ed147)
 
 #### Comparison with other Algorithms
+##### sequence 0
+![Screenshot from 2024-03-05 13-03-26](https://github.com/ksky0222/DORES_Dynamic-Object-Removal/assets/109937431/23af71ed-75db-4eb3-8728-b5ddeb12da5e)
+##### sequence 1
+![Screenshot from 2024-03-05 13-03-34](https://github.com/ksky0222/DORES_Dynamic-Object-Removal/assets/109937431/9e4be6c9-ec0c-43a5-be30-fc5c568d7cfc)
+##### sequence 2
+![Screenshot from 2024-03-05 13-03-41](https://github.com/ksky0222/DORES_Dynamic-Object-Removal/assets/109937431/5c8e0a3e-50bf-450a-8618-1966aceb6103)
+##### sequence 5
+![Screenshot from 2024-03-05 13-03-50](https://github.com/ksky0222/DORES_Dynamic-Object-Removal/assets/109937431/0b2efa90-baf6-4f50-8e98-2b828c1670bf)
+##### sequence 7
+![Screenshot from 2024-03-05 13-03-56](https://github.com/ksky0222/DORES_Dynamic-Object-Removal/assets/109937431/70eba2fc-8245-434f-9c1d-58b746d52f7f)
