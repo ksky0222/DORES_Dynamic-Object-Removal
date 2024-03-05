@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/airlab/catkin_dores/src/DORES/src/dores/dynamic_object_removal_3.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+sstream
+-
+random
+-
+algorithm
+-
+math.h
+-
+map
+-
+

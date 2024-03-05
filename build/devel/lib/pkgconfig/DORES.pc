@@ -1,0 +1,8 @@
+prefix=/home/airlab/catkin_dores/src/DORES/build/devel
+
+Name: DORES
+Description: Description of DORES
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
