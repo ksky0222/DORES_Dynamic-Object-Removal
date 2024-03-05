@@ -8,3 +8,13 @@ Therefore, removing dynamic objects can enhance the accuracy of SLAM or Localiza
 
 ## Our Method
 ![Screenshot from 2024-03-05 12-44-23](https://github.com/ksky0222/DORES_Dynamic-Object-Removal/assets/109937431/fbf50c05-8a92-4098-9691-08d6afd8a524)
+
+The most basic idea is based on the physical characteristics of the point clouds constituting dynamic and static objects. 
+Dynamic objects result in lower density point clouds, while static objects, lead to higher density point clouds. 
+However, a problem arises due to the physical properties of lidar sensors. Lidars emit light radially to detect surrounding objects, causing point clouds of distant objects to appear sparse and those of closer objects to appear dense. 
+Thus, even dynamic objects, when closer, may exhibit higher density compared to distant static objects. 
+Therefore, the distance between lidar paths is calculated within each clustering, reflecting it in the density characteristic.
+There are two methods for calculating the density characteristic. 
+Method A randomly selects points and measures the number of points within a certain distance around them. 
+Method B randomly selects points and computes the average of the distances to the closest n points. 
+The values obtained from Method A and Method B are combined, and lower values are considered as dynamic objects, and those points are removed.
